@@ -1,0 +1,9 @@
+sorted list of hills
+
+difference between first and last
+first and  last need to be adjusted by difference/2 (one might need one more than the other when difference is odd)
+	to minimize x^2
+
+all others need to be brought to that middle
+
+repeat until done.
